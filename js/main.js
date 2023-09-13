@@ -16,7 +16,7 @@ $(document).ready(function() {
                 required: true
             },
             cpf: {
-                required: true, 
+                required: true 
             },
             cep: {
                 required: true
